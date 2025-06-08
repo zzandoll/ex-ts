@@ -1,1 +1,2 @@
-const func1 = () => console.log("Hello Typescript");
+import { moduletest } from "./moduletest"
+moduletest();
