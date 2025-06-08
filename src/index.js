@@ -1,1 +1,1 @@
-var func1 = function () { return console.log("Hello Typescript"); };
+const func1 = () => console.log("Hello Typescript");

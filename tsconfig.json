@@ -1,7 +1,7 @@
 {
   "compilerOptions":{
-    "target":"ES5"
-
+    "target":"esnext",
+    "skipLibCheck": true, // 외부모듈의 타입검사를 스킵
   },
   "include": ["src"] // 컴파일할 범위를 설정
 }
