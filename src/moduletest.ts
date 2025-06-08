@@ -1,3 +1,3 @@
-export const moduletest = () => {
-    console.log("moduletest");
+export const moduletest = (msg: string) => {
+    console.log("moduletest" + msg);
 }

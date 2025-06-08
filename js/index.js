@@ -1,2 +1,2 @@
 import { moduletest } from "./moduletest";
-moduletest();
+moduletest("test");
