@@ -1,2 +1,1 @@
-console.log("hello Typescript");
-const i: number = 1;
+const func1 = () => console.log("Hello Typescript");

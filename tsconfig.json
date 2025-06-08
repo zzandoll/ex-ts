@@ -1,3 +1,7 @@
 {
-    "include": ["src"] // 컴파일할 범위를 설정
+  "compilerOptions":{
+    "target":"ES5"
+
+  },
+  "include": ["src"] // 컴파일할 범위를 설정
 }

@@ -1,2 +1,1 @@
-console.log("hello Typescript");
-var i = 1;
+var func1 = function () { return console.log("Hello Typescript"); };
