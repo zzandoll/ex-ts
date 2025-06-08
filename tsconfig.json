@@ -1,7 +1,7 @@
 {
   "compilerOptions":{
     "target":"esnext",
-    "module": "CommonJS", // 변환되는 자바스크립트 코드의 모듈시스템을 설정하는 옵션 es moudle system 
+    "module": "esnext", // 변환되는 자바스크립트 코드의 모듈시스템을 설정하는 옵션 es moudle system 
     "skipLibCheck": true, // 외부모듈의 타입검사를 스킵
   },
   "include": ["src"] // 컴파일할 범위를 설정
